@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>ChatGPT5</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="logic.js"></script>
+    <style>
+      .cat-stretch {
+        transform: scaleY(1.5);
+      }
+      .cat-normal {
+        transform: scaleY(1);
+      }
+    </style>
+    <!--Ajout d'un icône d'onglet-->
+    <link rel="icon" href="cat.png" type="image/png" />
+  </head>
+  <body>
+    <div style="text-align:center;">
+      <h1 style="color:white;">Bienvenue sur ChatGPT5</h1>
+      <img src="cat.png" alt="chat" style="margin-top:20px;" onclick="toggleCatStretch()">
+    </div>
+    <button onclick="window.location.href = 'pipe.html'">PipeGPT5</button>
+  </body>
+  
+    <audio id="fart-sound" src="pet.mp3"></audio>
+    <script>
+      function playFartSound() {
+        var audioElement = document.getElementById("fart-sound");
+        audioElement.play();
+      }
+
+      function toggleCatStretch() {
+        var catElement = document.querySelector("img");
+        catElement.classList.toggle("cat-stretch");
+        catElement.classList.toggle("cat-normal");
+        playFartSound(); // Ajout du pet sonore
+      }
+    </script>
+  </body>
+</html>

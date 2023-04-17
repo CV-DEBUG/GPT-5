@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>PipeGPT5</title>
+  <link rel="stylesheet" href="style.css">
+  <script src="logic.js"></script>
+  <style>
+    .pipe-stretch {
+      transform: scaleY(1.5);
+    }
+    .pipe-normal {
+      transform: scaleY(1);
+    }
+  </style>
+    <!--Ajout d'un icône d'onglet-->
+    <link rel="icon" href="pipe.jpg" type="image/jpg" />
+</head>
+<body>
+  <div style="text-align:center;">
+    <h1 style="color:white;">Bienvenue sur PipeGPT5</h1>
+    <img src="pipe.jpg" alt="pipe" style="margin-top:20px;" onclick="togglepipeStretch()">
+  </div>
+  <button onclick="window.location.href = 'index.html'">ChatGPT5</button>
+
+  <audio id="pipe-sound" src="Pipe.mp3"></audio>
+  <script>
+    const playpipeSound = () => {
+      const audioElement = document.getElementById("pipe-sound");
+      audioElement.play();
+    }
+
+    const togglepipeStretch = () => {
+      const pipeElement = document.querySelector("img");
+      pipeElement.classList.toggle("pipe-stretch");
+      pipeElement.classList.toggle("pipe-normal");
+      playpipeSound();
+    }
+  </script>
+
+</body>
+</html>
