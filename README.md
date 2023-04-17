@@ -12,6 +12,9 @@ ChatGPT5 est un site simple qui offre les fonctionnalités suivantes :
 - Lore très développé.
 - Interface utilisateur intuitive et facile à utiliser.
 
+![ChatGPT5 GIF](https://github.com/CVL-debug/ChatGPT5/blob/main/Pres.gif)
+
+
 ## Utilisation
 
 Pour utiliser ChatGPT5, vous devez :
