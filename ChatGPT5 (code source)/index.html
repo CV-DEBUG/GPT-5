@@ -5,9 +5,6 @@
     <link rel="stylesheet" href="style.css">
     <script src="logic.js"></script>
     <style>
-      .cat-stretch {
-        transform: scaleY(1.5);
-      }
       .cat-normal {
         transform: scaleY(1);
       }
@@ -18,9 +15,13 @@
   <body>
     <div style="text-align:center;">
       <h1 style="color:white;">Bienvenue sur ChatGPT5</h1>
-      <img src="cat.png" alt="chat" style="margin-top:20px;" onclick="toggleCatStretch()">
+      <img src="cat.png" alt="chat" style="margin-top:20px;" onclick="toggleCat()">
     </div>
-    <button onclick="window.location.href = 'pipe.html'">PipeGPT5</button>
+    <button onclick="window.location.href = 'pipe.html'">PipeGPT5</button><br>
+    <br>
+    <button onclick="window.location.href = 'crampter.html'">CrampterGPT5</button>
+    <br><br>
+    <button onclick="window.location.href = 'quoicouGPT5.html'">QuoicouGPT5</button>
   </body>
   
     <audio id="fart-sound" src="pet.mp3"></audio>
@@ -30,9 +31,8 @@
         audioElement.play();
       }
 
-      function toggleCatStretch() {
+      function toggleCat() {
         var catElement = document.querySelector("img");
-        catElement.classList.toggle("cat-stretch");
         catElement.classList.toggle("cat-normal");
         playFartSound(); // Ajout du pet sonore
       }
