@@ -1,7 +1,7 @@
 [build]
   command = "npm run build"
   publish = "build"
-  base = "GPT5 (code source)"
+  base = "GPT5"
   
 [context.production.environment]
   NODE_ENV = "production"
