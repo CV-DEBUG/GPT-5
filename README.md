@@ -19,7 +19,7 @@ ChatGPT5 est un site simple qui offre les fonctionnalités suivantes :
 
 Pour utiliser ChatGPT5, vous devez :
 
-1. Accéder au site web en suivant le lien suivant : [https://rad-truffle-60f3b4.netlify.app]([https://rad-truffle-60f3b4.netlify.app](https://gorgeous-kelpie-e4a216.netlify.app/)).
+1. Accéder au site web en suivant le lien suivant : https://gorgeous-kelpie-e4a216.netlify.app
 2. Cliquez sur l'image de chat pour commencer à produire des pets.
 
 ## À propos
