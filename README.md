@@ -1,33 +1,30 @@
+# GPT-5
 
-
-# ChatGPT5
-
-Bienvenue sur le repository GitHub de ChatGPT5, un site où vous pouvez interagir avec un chat et produire des pets en cliquant sur lui. De nouveaux personnages feront leur apparition plus tard, le repository sera mis à jour.
+Bienvenue sur le dépôt GitHub de GPT-5, un site où vous pouvez interagir avec des IA et produire une variété de sons en cliquant sur leurs images. De nouveaux personnages seront ajoutés ultérieurement et le dépôt sera régulièrement mis à jour.
 
 ## Fonctionnalités
 
-ChatGPT5 est un site simple qui offre les fonctionnalités suivantes :
+GPT-5 est un site simple qui offre les fonctionnalités suivantes :
 
-- Chat qui pète.
-- Lore très développé.
-- Interface utilisateur intuitive et facile à utiliser.
+- Des sons originaux.
+- Un univers riche et développé.
+- Une interface utilisateur intuitive et facile à utiliser.
 
-![ChatGPT5 GIF](https://github.com/CVL-debug/ChatGPT5/blob/main/Pres.gif)
-
+![ChatGPT-5 GIF](https://github.com/CVL-debug/ChatGPT5/blob/main/Pres.gif)
 
 ## Utilisation
 
-Pour utiliser ChatGPT5, vous devez :
+Pour utiliser GPT-5, vous devez :
 
 1. Accéder au site web en suivant le lien suivant : https://gorgeous-kelpie-e4a216.netlify.app
-2. Cliquez sur l'image de chat pour commencer à produire des pets.
+2. Cliquer sur l'image de l'IA pour commencer à produire des sons.
 
 ## À propos
 
-ChatGPT5 a été créé pour offrir une expérience utilisateur intéressante et intuitive. Nous prenons notre travail très au sérieux et nous nous engageons à offrir des fonctionnalités de haute qualité à nos utilisateurs.
+GPT-5 a été créé pour offrir une expérience utilisateur intéressante et intuitive. Nous prenons notre travail très au sérieux et nous nous engageons à offrir des fonctionnalités de haute qualité à nos utilisateurs.
 
-Nous apprécions tous les commentaires et suggestions de la communauté open-source pour améliorer ChatGPT5. N'hésitez pas à nous contacter si vous avez des idées d'amélioration ou si vous rencontrez des problèmes en utilisant notre site.
+Nous apprécions tous les commentaires et suggestions de la communauté open-source pour améliorer GPT-5. N'hésitez pas à nous contacter si vous avez des idées d'amélioration ou si vous rencontrez des problèmes en utilisant notre site.
 
 ## Avertissement
 
-Le bruit de pet généré par ChatGPT5 est destiné à des fins personnelles uniquement. Nous vous demandons de ne pas utiliser cette fonctionnalité de manière inappropriée ou de l'utiliser pour offenser ou nuire à autrui. Nous ne sommes pas responsables de toute utilisation inappropriée de ChatGPT5.
+Les sons générés par GPT-5 sont destinés à un usage personnel uniquement. Nous vous demandons de ne pas utiliser cette fonctionnalité de manière inappropriée ou pour offenser ou nuire à autrui. Nous ne sommes pas responsables de toute utilisation inappropriée de GPT-5.
