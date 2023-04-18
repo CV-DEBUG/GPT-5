@@ -26,5 +26,5 @@ GPT-5 a été créé pour offrir une expérience utilisateur intéressante et in
 Nous apprécions tous les commentaires et suggestions de la communauté open-source pour améliorer GPT-5. N'hésitez pas à nous contacter si vous avez des idées d'amélioration ou si vous rencontrez des problèmes en utilisant notre site.
  
 ## Avertissement
-
+ 
 Les sons générés par GPT-5 sont destinés à un usage personnel uniquement. Nous vous demandons de ne pas utiliser cette fonctionnalité de manière inappropriée ou pour offenser ou nuire à autrui. Nous ne sommes pas responsables de toute utilisation inappropriée de GPT-5.
