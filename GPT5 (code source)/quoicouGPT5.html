@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>QuoicouGPT5</title>
+  <link rel="stylesheet" href="style.css">
+  <style>
+    .cringe-normal {
+      transform: scaleY(1);
+    }
+  </style>
+    <!--Ajout d'un icône d'onglet-->
+    <link rel="icon" href="cringe.jpg" type="image/jpg" />
+</head>
+<body>
+  <div style="text-align:center;">
+    <h1 style="color:white;">Bienvenue sur QuoicouGPT5</h1>
+    <img src="cringe.jpg" alt="cringe" style="margin-top:20px;" onclick="playcringeSound()">
+  </div>
+  <button onclick="window.location.href = 'pipe.html'">PipeGPT5</button><br>
+  <br>
+  <button onclick="window.location.href = 'index.html'">ChatGPT5</button>
+  <br><br>
+  <button onclick="window.location.href = 'crampter.html'">CrampterGPT5</button>
+
+  <audio id="cringe-sound" src="cringe.mp3"></audio>
+  <script>
+    const playcringeSound = () => {
+      const audioElement = document.getElementById("cringe-sound");
+      audioElement.play();
+    }
+  </script>
+</body>
+</html>
