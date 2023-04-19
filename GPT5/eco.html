@@ -1,20 +1,20 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>CrampterGPT5</title>
+  <title>EcoGPT5</title>
   <link rel="stylesheet" href="style.css">
   <style>
-    .crampter-normal {
+    .eco-normal {
       transform: scaleY(1);
     }
   </style>
     <!--Ajout d'un icône d'onglet-->
-    <link rel="icon" href="crampter." type="image/jpeg" />
+    <link rel="icon" href="eco.png" type="image/png" />
 </head>
 <body>
   <div style="text-align:center;">
-    <h1 style="color:white;">Bienvenue sur CrampterGPT5</h1>
-    <img src="crampter.jpeg" alt="crampter" style="margin-top:20px;" onclick="playcrampterSound()">
+    <h1 style="color:white;">Bienvenue sur EcoGPT5</h1>
+    <img src="eco.png" alt="eco" style="margin-top:20px;" onclick="playecoSound()">
   </div>
   <button onclick="window.location.href = 'pipe.html'">PipeGPT5</button><br>
   <br>
@@ -22,10 +22,10 @@
   <br><br>
   <button onclick="window.location.href = 'quoicouGPT5.html'">QuoicouGPT5</button>
 
-  <audio id="crampter-sound" src="crampter.mp3"></audio>
+  <audio id="eco-sound" src="eco.mp3"></audio>
   <script>
-    const playcrampterSound = () => {
-      const audioElement = document.getElementById("crampter-sound");
+    const playecoSound = () => {
+      const audioElement = document.getElementById("eco-sound");
       audioElement.play();
     }
   </script>
