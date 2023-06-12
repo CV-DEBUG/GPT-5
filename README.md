@@ -16,7 +16,7 @@ GPT-5 est un site simple qui offre les fonctionnalités suivantes :
 
 Pour utiliser GPT-5, vous devez :
 
-1. Accéder au site web en suivant le lien suivant : https://gorgeous-kelpie-e4a216.netlify.app
+1. Accéder au site web en suivant le lien suivant : https://cv-gpt5.netlify.app
 2. Cliquer sur l'image de l'IA pour commencer à produire des sons.
 
 ## À propos
